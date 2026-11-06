@@ -1,4 +1,4 @@
-<img src="assets/readme/hero.svg" width="1200" height="420" alt="A viral claim of $40k MRR with no employees sits on an investigator's board. A magnifying glass checks it, strings connect it to replies, a store page, a sitemap and failure stories, and evidence stamps land on each claim. A blueprint slides in, and a sample verdict is stamped on it." />
+<img src="assets/readme/hero.svg" width="1200" height="420" alt="A viral revenue claim sits on an investigator's board. A magnifying glass checks it, strings connect it to replies, a store page, a sitemap and failure stories, and evidence stamps land on each claim. A blueprint slides in, and a sample verdict is stamped on it." />
 
 <h1 align="center">Reverse Engineer Success</h1>
 
@@ -37,18 +37,18 @@ What you get:
 
 Every report opens with what the business really is, and ends with a verdict based on your goal. This example is made up, to show the format:
 
-> **What the business really is:** The founder's "$40k solo agency" appears to be a paid-promotion business built on a large audience. The audience and paid-post labels are confirmed. The revenue and clients aren't.
+> **What the business really is:** The founder's "$25k one-person app" appears to be mostly a paid newsletter about building apps. The audience and the newsletter are confirmed. The app's revenue isn't.
 >
 > | Metric | Value | Status |
 > |---|---|---|
-> | Followers | 120K | **Confirmed** |
-> | Monthly revenue | $40K | **Self-reported** |
-> | Monthly costs | "Under $300" and "$750" in one post | **Conflicting** |
-> | Named clients | None found | **Unknown** |
+> | Newsletter subscribers | 30K | **Confirmed** |
+> | Monthly app revenue | $25K | **Self-reported** |
+> | App store ratings | 40 | **Confirmed** |
+> | Paying customers | None named | **Unknown** |
 >
-> **Verdict: Pursue a narrower version.** Copy the content engine and offer structure. Skip selling reach until you have an audience.
+> **Verdict: Pursue a narrower version.** Copy the newsletter's content format. Don't count on the app numbers until you've tested demand yourself.
 >
-> **Smallest test:** 30 days, 4 long guides from real work. Pass if one guide gets bookmarks from about 1% of viewers, and you get 3 serious conversations.
+> **Smallest test:** 2 weeks, 3 issues about real work. Pass if 50 people subscribe and 5 reply with a real problem.
 
 ## Install
 
