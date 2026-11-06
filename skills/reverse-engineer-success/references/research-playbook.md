@@ -18,6 +18,10 @@ Use the strongest available option for each job, and record in the report what y
 - Timelines render client-side. Page text extraction may return only the first post. An accessibility tree shows the whole timeline with text cut short, so use it to find post IDs, then open each post to read it in full.
 - Screenshots are the only way to read charts and dashboards attached to posts. Open `<post URL>/photo/1`.
 - A long post may be an X Article at `x.com/<handle>/article/<id>`.
+- Pages load slowly. Wait about 6 seconds before reading, and retry once if the text comes back empty.
+- Read long articles in their own tool call, because batched output can be cut off.
+- X's "Paid partnership" label appears on the post. Check recent posts for it, and record the sample size.
+- Treat research agents' summaries as leads. They can miss what the subject says on X, so check their "not found" claims against the subject's own posts.
 
 Useful searches:
 
@@ -28,6 +32,7 @@ from:<handle> (launched OR shipped OR "new app" OR sold)
 from:<handle> filter:links                  posts with product links
 from:<handle> (failed OR mistake OR deindexed OR churn OR "didn't work")
 from:<handle> since:YYYY-MM-DD until:YYYY-MM-DD
+from:<handle> "<company in bio>"               when and how it was first announced
 ```
 
 Sort by Top for what spread, and by Latest for caveats.
@@ -55,6 +60,8 @@ The aim is to tie claims to products without guessing. Follow the chain until it
 3. **Company sites:** portfolio pages, footers, and privacy and terms pages often name the entity and list other products.
 4. **Developer records:** GitHub profiles and organizations, npm, PyPI, pub.dev and similar registries.
 5. **Public directories:** Product Hunt, Indie Hackers, verified revenue listings, Crunchbase, interviews and podcasts.
+
+**Name collisions:** common company names match unrelated businesses. Only connect a company to the subject when a link or statement ties them together, and check the X handles they name. Note if a handle is suspended without guessing why.
 
 **Labeling:** the subject's own link or statement is Confirmed. Matching names or categories alone are Inferred. If products stay unnamed, record Unknown and move on. A founder's silence on product names is common, and more digging tends to reach personal data rather than better evidence.
 

@@ -46,7 +46,9 @@ Use the answers for the opportunity assessment. If the user declines, write a ge
 
 Read [references/research-playbook.md](references/research-playbook.md), then work through the target's post, replies and timeline. Check which research tools are available and note what you can't read.
 
-**Done when:** you've listed the 5–10 claims that matter, read the subject's own replies under their main post, and searched for later follow-ups or caveats.
+Build a dated identity timeline: how they've described their business, bio and offer over time. The changes between versions are often the main finding.
+
+**Done when:** you've listed the 5–10 claims that matter, read the subject's own replies under their main post, searched for later follow-ups or caveats, and dated how their story has changed.
 
 ### 3. Trace ownership
 
@@ -75,7 +77,8 @@ Ask of the conclusion:
 - How much depends on an advantage the reader lacks, such as audience, reputation, capital or a head start?
 - Does the proof show the channel worked, or only that revenue exists?
 - Is this an average, or one winner out of many attempts?
-- Do their other posts contradict this one?
+- Do their other posts contradict this one? Do the numbers in a single post add up?
+- Is any recommendation in the story something they could be paid to promote?
 
 Revise anything that doesn't survive. If new facts from the user change the picture, update the assessment and say what changed.
 
@@ -90,7 +93,7 @@ Fill both templates, using the same findings and section order in each:
 
 The artifact lives on the user's account, and is theirs to share or not.
 
-**Done when:** every number has a label and a source, each section is filled or marked Unknown, every link was opened during research, and no template placeholders remain.
+**Done when:** every number has a label and a source, each section is filled or marked Unknown, every cited link was opened during research or is marked Secondary in the evidence log, and no template placeholders remain.
 
 ### 8. Report back
 
