@@ -19,7 +19,6 @@
   <a href="https://claude.com/product/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-Skill-1b4fc4" alt="Claude Code skill" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/Scripts-No%20dependencies-17693e" alt="Scripts have no dependencies" />
-  <a href="https://github.com/ferdelamad/reverse-engineer-success/stargazers"><img src="https://img.shields.io/github/stars/ferdelamad/reverse-engineer-success?style=flat" alt="GitHub stars" /></a>
 </p>
 
 **Reverse Engineer Success is a free research skill for Claude Code.** Give it an X profile or post. It works out what the business really is, labels how well each claim holds up, writes the blueprint, and tells you whether a similar path is worth it for you.
